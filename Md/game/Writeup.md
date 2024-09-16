@@ -1,4 +1,4 @@
-# SDU Writeup
+# 2024校赛
 
 ## # Chess game
 
